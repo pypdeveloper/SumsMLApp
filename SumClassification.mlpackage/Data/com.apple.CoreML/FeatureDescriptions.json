@@ -1,0 +1,21 @@
+{
+  "Outputs" : {
+    "Sum" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "SumProbability" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "Inputs" : {
+    "Number 2" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "Number 1" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
